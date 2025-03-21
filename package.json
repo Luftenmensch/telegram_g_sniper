@@ -1,0 +1,24 @@
+{
+  "name": "telegram-gifts-analyzer",
+  "version": "1.0.0",
+  "description": "Analyzer for Telegram Star Gifts",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "analyze": "ts-node analyze_gifts.ts",
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@mtkruto/mtkruto": "npm:@jsr/mtkruto__mtkruto",
+    "@mtkruto/node": "^0.18.0",
+    "telegram": "^2.19.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "exceljs": "^4.4.0",
+    "tgs-to": "^1.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
