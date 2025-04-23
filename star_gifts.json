@@ -1,0 +1,2482 @@
+[
+  {
+    "type": "nonupgraded",
+    "id": "6028426950047957932",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmS1HZ7p7lIyZKmzDuI-eGdAALaXwACctOgS6wmeFQQI6vLNAQ",
+      "fileUniqueId": "AgAD2l8AAnLToEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiZLUdnunuUjJkqbMO4j54Z0AAtpfAAJy06BLrCZ4VBAjq8sBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD2l8AAnLToEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5808
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 63485
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2025-01-01T13:37:52.000Z",
+    "lastSaleDate": "2025-01-04T22:05:16.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6028283532500009446",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkZKf-tobXf3WkwPlnPoIc5AAJcZgAC_V-ZS4RkIm3SoVFkNAQ",
+      "fileUniqueId": "AgADXGYAAv1fmUs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiRkp_62htd_daTA-Wc-ghzkAAlxmAAL9X5lLhGQibdKhUWQBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADXGYAAv1fmUty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7726
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 47718
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2025-01-01T13:37:53.000Z",
+    "lastSaleDate": "2025-01-13T11:34:43.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6023917088358269866",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlBMLIzs2_jXwAB4uNbTZoJpQACI2sAAp1MmUtaIEFxXc-g5DQE",
+      "fileUniqueId": "AgADI2sAAp1MmUs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiUEwsjOzb-NfAAHi41tNmgmlAAIjawACnUyZS1ogQXFdz6DkAQADBQADbQADNAQ",
+          "fileUniqueId": "AQADI2sAAp1MmUty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5520
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 33336
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-12-30T20:06:06.000Z",
+    "lastSaleDate": "2024-12-31T20:36:29.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6023679164349940429",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlqy5WUKnSUfUak_ewXVK3MAAKYcgACs7iYS78uyynr3GU6NAQ",
+      "fileUniqueId": "AgADmHIAArO4mEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiWrLlZQqdJR9RqT97BdUrcwAAphyAAKzuJhLvy7LKevcZToBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADmHIAArO4mEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6206
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 56814
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-12-30T20:06:06.000Z",
+    "lastSaleDate": "2024-12-31T23:33:34.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6023752243218481939",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkwUXA-J9zv4IXYSAQ7zG2yAAISaQACLgeYSx9EryfWC6dINAQ",
+      "fileUniqueId": "AgADEmkAAi4HmEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiTBRcD4n3O_ghdhIBDvMbbIAAhJpAAIuB5hLH0SvJ9YLp0gBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADEmkAAi4HmEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7830
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 13892
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-12-30T20:06:07.000Z",
+    "lastSaleDate": "2025-01-03T04:10:17.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6003373314888696650",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlCCQdLyFT7-gRhxnsBTaetAAIqZQACP4tJS5fq_7PsOTQjNAQ",
+      "fileUniqueId": "AgADKmUAAj-LSUs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiUIJB0vIVPv6BGHGewFNp60AAiplAAI_i0lLl-r_s-w5NCMBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADKmUAAj-LSUty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6304
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 53729
+    },
+    "price": 10,
+    "limited": true,
+    "remaining": 0,
+    "total": 600000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 9,
+    "firstSaleDate": "2024-12-23T20:57:24.000Z",
+    "lastSaleDate": "2024-12-29T09:38:19.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6003767644426076664",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlOnzQYedjtJKjth5g4Z2lnAAIpYwACtDRAS_ShMFwfsxNJNAQ",
+      "fileUniqueId": "AgADKWMAArQ0QEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiU6fNBh52O0kqO2HmDhnaWcAAiljAAK0NEBL9KEwXB-zE0kBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADKWMAArQ0QEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5890
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 48548
+    },
+    "price": 10,
+    "limited": true,
+    "remaining": 0,
+    "total": 600000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 9,
+    "firstSaleDate": "2024-12-23T20:57:24.000Z",
+    "lastSaleDate": "2024-12-29T09:01:10.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6001538689543439169",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnzLgzpuGRi73nNUkXsfQMiAAI3XwACiPdpSmADh3ixvbRkNAQ",
+      "fileUniqueId": "AgADN18AAoj3aUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJifMuDOm4ZGLvec1SRex9AyIAAjdfAAKI92lKYAOHeLG9tGQBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADN18AAoj3aUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7642
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 31806
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-12-23T20:57:25.000Z",
+    "lastSaleDate": "2024-12-28T17:43:04.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6003643167683903930",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkt6OfCLb_mgdTRCRhcG0_eAAKSYQACLGxhSrGfcUyyhn8_NAQ",
+      "fileUniqueId": "AgADkmEAAixsYUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiS3o58Itv-aB1NEJGFwbT94AApJhAAIsbGFKsZ9xTLKGfz8BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADkmEAAixsYUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7328
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 35862
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-12-23T20:57:25.000Z",
+    "lastSaleDate": "2024-12-30T06:15:19.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6003735372041814769",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlEXFkuA991G6q6NWfmqlSDAALRXAACaIhIS8xUpobOAoF8NAQ",
+      "fileUniqueId": "AgAD0VwAAmiISEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiURcWS4D33Ubqro1Z-aqVIMAAtFcAAJoiEhLzFSmhs4CgXwBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD0VwAAmiISEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6638
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 46064
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-12-23T20:57:26.000Z",
+    "lastSaleDate": "2024-12-29T09:15:37.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6001473264306619020",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYn6Pz45U2tsYxFTwkViuSa7AAK3ZQACwZ-5SviG8CqpOroJNAQ",
+      "fileUniqueId": "AgADt2UAAsGfuUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJifo_PjlTa2xjEVPCRWK5JrsAArdlAALBn7lK-IbwKqk6ugkBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADt2UAAsGfuUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 8390
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 35963
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-12-23T20:57:26.000Z",
+    "lastSaleDate": "2024-12-30T16:49:04.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5983484377902875708",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlaGWUdw-H-6W4RhQhBPxB_AAKLYwACrLO5StseAAFzKhgahDQE",
+      "fileUniqueId": "AgADi2MAAqyzuUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiVoZZR3D4f7pbhGFCEE_EH8AAotjAAKss7lK2x4AAXMqGBqEAQADBQADbQADNAQ",
+          "fileUniqueId": "AQADi2MAAqyzuUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6740
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 29309
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 300000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-12-16T22:19:00.000Z",
+    "lastSaleDate": "2024-12-18T19:13:39.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5983259145522906006",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlXt9gXtxzXj-KB7FFqiRiVAAJ8XAACN2a5Sk06RJY2CtwPNAQ",
+      "fileUniqueId": "AgADfFwAAjdmuUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiVe32Be3HNeP4oHsUWqJGJUAAnxcAAI3ZrlKTTpEljYK3A8BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADfFwAAjdmuUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 8646
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 35247
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-12-16T22:19:00.000Z",
+    "lastSaleDate": "2024-12-20T21:19:13.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5983471780763796287",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYm9epx8IF1_b_GKda9GurlOAAJeagACE7K5Stnk_ZiT1Ib8NAQ",
+      "fileUniqueId": "AgADXmoAAhOyuUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJib16nHwgXX9v8Yp1r0a6uU4AAl5qAAITsrlK2eT9mJPUhvwBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADXmoAAhOyuUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4330
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 64618
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 150000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-12-16T22:19:01.000Z",
+    "lastSaleDate": "2024-12-28T16:01:18.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5981132629905245483",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnU86EYxHOuJYsutfG0OitpAAI-WgACqZlgSu219j4pPcD4NAQ",
+      "fileUniqueId": "AgADPloAAqmZYEo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJidTzoRjEc64liy618bQ6K2kAAj5aAAKpmWBK7bX2Pik9wPgBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADPloAAqmZYEpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7254
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 33475
+    },
+    "price": 75,
+    "limited": true,
+    "remaining": 0,
+    "total": 120000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 64,
+    "firstSaleDate": "2024-12-16T22:19:01.000Z",
+    "lastSaleDate": "2024-12-30T15:16:11.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5980789805615678057",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnhzbIpGMdVuAI_n5nxHSS5AAKVXwACWBmISpA2bswVniXQNAQ",
+      "fileUniqueId": "AgADlV8AAlgZiEo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJieHNsikYx1W4Aj-fmfEdJLkAApVfAAJYGYhKkDZuzBWeJdABAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADlV8AAlgZiEpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7362
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 38062
+    },
+    "price": 100,
+    "limited": true,
+    "remaining": 0,
+    "total": 90000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 85,
+    "firstSaleDate": "2024-12-16T22:19:01.000Z",
+    "lastSaleDate": "2024-12-30T17:26:43.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5981026247860290310",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmUskX02McP2LQ1mlCl3FgUAAK3VwACwROgSq_YbObpL6ZeNAQ",
+      "fileUniqueId": "AgADt1cAAsEToEo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiZSyRfTYxw_YtDWaUKXcWBQAArdXAALBE6BKr9hs5ukvpl4BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADt1cAAsEToEpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5128
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 34233
+    },
+    "price": 200,
+    "limited": true,
+    "remaining": 0,
+    "total": 50000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 170,
+    "firstSaleDate": "2024-12-16T22:19:01.000Z",
+    "lastSaleDate": "2025-01-01T10:06:02.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5933590374185435592",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkqfUmYXmfLl7-uFbFA5y9xAAKhXAACN4qRScf3IWcFPM3YNAQ",
+      "fileUniqueId": "AgADoVwAAjeKkUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiSp9SZheZ8uXv64VsUDnL3EAAqFcAAI3ipFJx_chZwU8zdgBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADoVwAAjeKkUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5512
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 28679
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-11-30T22:00:27.000Z",
+    "lastSaleDate": "2024-12-15T10:29:56.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5936017773737018241",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYn9SsPltigCbqocekwULn77AAI_tgACycZoSrasXHuF9bjQNAQ",
+      "fileUniqueId": "AgADP7YAAsnGaEo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJif1Kw-W2KAJuqhx6TBQufvsAAj-2AALJxmhKtqxce4X1uNABAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADP7YAAsnGaEpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3548
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 13969
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-11-30T22:00:28.000Z",
+    "lastSaleDate": "2024-12-16T19:24:22.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5935936766358847989",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYk1-syPg-AwZEl3dsZJoJYQAAJbVwACAfdoSYw9fUwl1cD2NAQ",
+      "fileUniqueId": "AgADW1cAAgH3aEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiTX6zI-D4DBkSXd2xkmglhAAAltXAAIB92hJjD19TCXVwPYBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADW1cAAgH3aEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5614
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 18167
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-11-30T22:00:28.000Z",
+    "lastSaleDate": "2024-12-05T07:58:50.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5936043693864651359",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmJ_P6Oota67pVCLIQZIIWgAALPWwACUdRwScoxIEcUEF75NAQ",
+      "fileUniqueId": "AgADz1sAAlHUcEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiYn8_o6i1rrulUIshBkghaAAAs9bAAJR1HBJyjEgRxQQXvkBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADz1sAAlHUcEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5616
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 19538
+    },
+    "price": 100,
+    "limited": true,
+    "remaining": 0,
+    "total": 50000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 85,
+    "firstSaleDate": "2024-11-30T22:00:28.000Z",
+    "lastSaleDate": "2024-12-09T19:38:19.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5936085638515261992",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnk87OVlCZUgZg3OJc2FYgYAAK7YgACKhY5Ss9IjRLrZ0iSNAQ",
+      "fileUniqueId": "AgADu2IAAioWOUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJieTzs5WUJlSBmDc4lzYViBgAArtiAAIqFjlKz0iNEutnSJIBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADu2IAAioWOUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4234
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 32641
+    },
+    "price": 150,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 128,
+    "firstSaleDate": "2024-11-30T22:00:29.000Z",
+    "lastSaleDate": "2024-12-09T20:46:21.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5933531623327795414",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmNEkc5XndwdRi3SBRSwNJ6AAJ5WwACXCC4SVb9bfM0I8bkNAQ",
+      "fileUniqueId": "AgADeVsAAlwguEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiY0SRzled3B1GLdIFFLA0noAAnlbAAJcILhJVv1t8zQjxuQBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADeVsAAlwguEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4812
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 24578
+    },
+    "price": 350,
+    "limited": true,
+    "remaining": 0,
+    "total": 15000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 298,
+    "firstSaleDate": "2024-11-30T22:00:29.000Z",
+    "lastSaleDate": "2024-12-28T17:45:10.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5933629604416717361",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYldcZjVrrbrwI1CCfW8G0YaAAI9WgADo-hJcV67YLhP_ws0BA",
+      "fileUniqueId": "AgADPVoAA6PoSQ",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiV1xmNWutuvAjUIJ9bwbRhoAAj1aAAOj6ElxXrtguE__CwEAAwUAA20AAzQE",
+          "fileUniqueId": "AQADPVoAA6PoSXI",
+          "width": 128,
+          "height": 128,
+          "fileSize": 8816
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 14432
+    },
+    "price": 500,
+    "limited": true,
+    "remaining": 0,
+    "total": 10000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 425,
+    "firstSaleDate": "2024-11-30T22:00:29.000Z",
+    "lastSaleDate": "2024-12-08T12:42:10.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5933671725160989227",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYn88M8DtHUDPQVMGqUZ0myBAAJJVgACgUpxSRYw4xrNnEobNAQ",
+      "fileUniqueId": "AgADSVYAAoFKcUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJifzwzwO0dQM9BUwapRnSbIEAAklWAAKBSnFJFjDjGs2cShsBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADSVYAAoFKcUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4380
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 20925
+    },
+    "price": 1000,
+    "limited": true,
+    "remaining": 0,
+    "total": 5000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 850,
+    "firstSaleDate": "2024-11-30T22:00:29.000Z",
+    "lastSaleDate": "2024-12-07T07:29:04.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5936013938331222567",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkLOtLNMymUG4BuR2k-HjpuAAKgXQAC-lMJSjabmOFusRl9NAQ",
+      "fileUniqueId": "AgADoF0AAvpTCUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiQs60s0zKZQbgG5HaT4eOm4AAqBdAAL6UwlKNpuY4W6xGX0BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADoF0AAvpTCUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6402
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 14800
+    },
+    "price": 2000,
+    "limited": true,
+    "remaining": 0,
+    "total": 3000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 1700,
+    "firstSaleDate": "2024-11-30T22:00:30.000Z",
+    "lastSaleDate": "2024-12-01T07:42:41.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5913442287462908725",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnKno1cKamDan0R880QlkmBAAIZYgAC2YL5SVAvhEcEEoFrNAQ",
+      "fileUniqueId": "AgADGWIAAtmC-Uk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJicqejVwpqYNqfRHzzRCWSYEAAhliAALZgvlJUC-ERwQSgWsBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADGWIAAtmC-Uly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5536
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 27394
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 400000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-11-23T23:14:28.000Z",
+    "lastSaleDate": "2024-11-28T16:25:36.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5915502858152706668",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnevaEcSZj2SUq5-7jhjJqgAAJrYwACBfpxSVsG1CXX3q-fNAQ",
+      "fileUniqueId": "AgADa2MAAgX6cUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJid69oRxJmPZJSrn7uOGMmqAAAmtjAAIF-nFJWwbUJdfer58BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADa2MAAgX6cUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3906
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 53045
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 200000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-11-23T23:14:28.000Z",
+    "lastSaleDate": "2024-11-25T22:36:51.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5915733223018594841",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmSo-6fZN2t1IKCyS2xBhMMAAJtWAACnbxgSdfxgy0QbupHNAQ",
+      "fileUniqueId": "AgADbVgAAp28YEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiZKj7p9k3a3UgoLJLbEGEwwAAm1YAAKdvGBJ1_GDLRBu6kcBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADbVgAAp28YEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3700
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 13656
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-11-23T23:14:29.000Z",
+    "lastSaleDate": "2024-11-27T19:25:34.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5915521180483191380",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnXgjk5FgrVUZ2GcMva5q28AAJEWgACIKX4SWMZN9mZAAFrNjQE",
+      "fileUniqueId": "AgADRFoAAiCl-Ek",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJideCOTkWCtVRnYZwy9rmrbwAAkRaAAIgpfhJYxk32ZkAAWs2AQADBQADbQADNAQ",
+          "fileUniqueId": "AQADRFoAAiCl-Ely",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3054
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 21731
+    },
+    "price": 1000,
+    "limited": true,
+    "remaining": 0,
+    "total": 5000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 850,
+    "firstSaleDate": "2024-11-23T23:14:36.000Z",
+    "lastSaleDate": "2024-11-24T11:29:44.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5915550639663874519",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnohu782a90t4ren9lL-j7IAAIuXwAC-3hZSfKozlVY-kYRNAQ",
+      "fileUniqueId": "AgADLl8AAvt4WUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJieiG7vzZr3S3it6f2Uv6PsgAAi5fAAL7eFlJ8qjOVVj6RhEBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADLl8AAvt4WUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4968
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 16221
+    },
+    "price": 100,
+    "limited": true,
+    "remaining": 0,
+    "total": 50000,
+    "soldOut": true,
+    "birthday": true,
+    "conversionPrice": 85,
+    "firstSaleDate": "2024-11-23T23:14:30.000Z",
+    "lastSaleDate": "2024-11-30T14:33:51.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5913517067138499193",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkEG0Qx0zphptCEffCfUuYRAALsVgAC6e4pSSUFZCwwQH7GNAQ",
+      "fileUniqueId": "AgAD7FYAAunuKUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiQQbRDHTOmGm0IR98J9S5hEAAuxWAALp7ilJJQVkLDBAfsYBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD7FYAAunuKUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3586
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 18429
+    },
+    "price": 500,
+    "limited": true,
+    "remaining": 0,
+    "total": 10000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 425,
+    "firstSaleDate": "2024-11-23T23:14:37.000Z",
+    "lastSaleDate": "2024-11-30T18:05:10.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5879737836550226478",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYn477caLUlnMA_rLUSCxyufAAJGWQACfAJRSXBUeO8sW9yONAQ",
+      "fileUniqueId": "AgADRlkAAnwCUUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJifjvtxotSWcwD-stRILHK58AAkZZAAJ8AlFJcFR47yxb3I4BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADRlkAAnwCUUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 2892
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 28193
+    },
+    "price": 500,
+    "limited": true,
+    "remaining": 0,
+    "total": 10000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 425,
+    "firstSaleDate": "2024-11-12T22:25:32.000Z",
+    "lastSaleDate": "2024-11-19T04:49:46.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5882125812596999035",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYm-XCmZoe_zrQvRj4sba4bkAAJZXAAC1ro5SW5sSZ5lghRtNAQ",
+      "fileUniqueId": "AgADWVwAAta6OUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJib5cKZmh7_OtC9GPixtrhuQAAllcAALWujlJbmxJnmWCFG0BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADWVwAAta6OUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 8170
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 24009
+    },
+    "price": 100,
+    "limited": true,
+    "remaining": 0,
+    "total": 50000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 85,
+    "firstSaleDate": "2024-11-12T22:25:32.000Z",
+    "lastSaleDate": "2024-11-15T19:56:46.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5882252952218894938",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYl-6UfAcZfJfHAd68joa6PuAAJBYgAClIc5SSK0Pg7FBteyNAQ",
+      "fileUniqueId": "AgADQWIAApSHOUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiX7pR8Bxl8l8cB3ryOhro-4AAkFiAAKUhzlJIrQ-DsUG17IBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADQWIAApSHOUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7302
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 25499
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-11-12T22:25:33.000Z",
+    "lastSaleDate": "2024-11-21T07:10:47.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5859442703032386168",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmA2SqSutEBkr87gk59LwpsAAKBWQACM_4oSbaYlFmcd6ybNAQ",
+      "fileUniqueId": "AgADgVkAAjP-KEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiYDZKpK60QGSvzuCTn0vCmwAAoFZAAIz_ihJtpiUWZx3rJsBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADgVkAAjP-KEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5270
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 63901
+    },
+    "price": 500,
+    "limited": true,
+    "remaining": 0,
+    "total": 10000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 425,
+    "firstSaleDate": "2024-11-04T23:16:37.000Z",
+    "lastSaleDate": "2024-11-08T21:18:03.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5857140566201991735",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkvMqMp7M4Js52XZ44mJEkoAAK9XgACrw8oSc4sahyfJv2KNAQ",
+      "fileUniqueId": "AgADvV4AAq8PKEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiS8yoynszgmznZdnjiYkSSgAAr1eAAKvDyhJzixqHJ8m_YoBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADvV4AAq8PKEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5324
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 19940
+    },
+    "price": 100,
+    "limited": true,
+    "remaining": 0,
+    "total": 50000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 85,
+    "firstSaleDate": "2024-11-04T23:17:00.000Z",
+    "lastSaleDate": "2024-11-20T18:58:23.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5856973938650776169",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkh_lcXGyCG5RbaTZKEeZ74AAJsWQACCRUwSc2K92hLfV-mNAQ",
+      "fileUniqueId": "AgADbFkAAgkVMEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiSH-VxcbIIblFtpNkoR5nvgAAmxZAAIJFTBJzYr3aEt9X6YBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADbFkAAgkVMEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5322
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 28242
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-11-04T23:17:00.000Z",
+    "lastSaleDate": "2024-12-23T11:43:00.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5846226946928673709",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlRlw0CshWMuAkP1ttTz69XAAJZOwACHOn4SHmVbOJtV5xKNAQ",
+      "fileUniqueId": "AgADWTsAAhzp-Eg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiVGXDQKyFYy4CQ_W21PPr1cAAlk7AAIc6fhIeZVs4m1XnEoBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADWTsAAhzp-Ehy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7128
+        }
+      ],
+      "emoji": "🧪",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 50925
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 5000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-10-31T22:13:44.000Z",
+    "lastSaleDate": "2024-10-31T22:23:37.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5846192273657692751",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlFx_DgcggdpHKfLsMFPQY_AAJSOwACsExxSOtMYBwWHu9fNAQ",
+      "fileUniqueId": "AgADUjsAArBMcUg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiUXH8OByCB2kcp8uwwU9Bj8AAlI7AAKwTHFI60xgHBYe718BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADUjsAArBMcUhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3938
+        }
+      ],
+      "emoji": "💀",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 30535
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 10000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-31T22:13:45.000Z",
+    "lastSaleDate": "2024-10-31T22:45:02.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5845776576658015084",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnUHlGS8AENNoJRrhLN_IInAALgPQACPKkhSU7HiTDW9eu6NAQ",
+      "fileUniqueId": "AgAD4D0AAjypIUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJidQeUZLwAQ02glGuEs38gicAAuA9AAI8qSFJTseJMNb167oBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD4D0AAjypIUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4618
+        }
+      ],
+      "emoji": "🐸",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 18834
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 15000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-31T22:13:50.000Z",
+    "lastSaleDate": "2024-10-31T22:56:53.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5825895989088617224",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmOPRxNhWIoYmoyHGoz_0cBAAJMOgACkieYSCu5oclP2DsGNAQ",
+      "fileUniqueId": "AgADTDoAApInmEg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiY49HE2FYihiajIcajP_RwEAAkw6AAKSJ5hIK7mhyU_YOwYBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADTDoAApInmEhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4054
+        }
+      ],
+      "emoji": "🍭",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 6607
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 300000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-24T20:04:11.000Z",
+    "lastSaleDate": "2024-11-27T15:56:44.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5825801628657124140",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkNu785hVn7nHAtyGSsApGTAAKlMwACXQRpSaS8Pwf4mYV_NAQ",
+      "fileUniqueId": "AgADpTMAAl0EaUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiQ27vzmFWfuccC3IZKwCkZMAAqUzAAJdBGlJpLw_B_iZhX8BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADpTMAAl0EaUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5812
+        }
+      ],
+      "emoji": "🍲",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 43081
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 120000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-24T20:04:22.000Z",
+    "lastSaleDate": "2024-11-03T00:03:20.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5825480571261813595",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnk2Zgsdz3Otlkr7uE11bqMAAKSLgACEIrxS22jsBhWhJK3NAQ",
+      "fileUniqueId": "AgADki4AAhCK8Us",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJieTZmCx3Pc62WSvu4TXVuowAApIuAAIQivFLbaOwGFaEkrcBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADki4AAhCK8Uty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4538
+        }
+      ],
+      "emoji": "👁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 11750
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 120000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-24T20:04:37.000Z",
+    "lastSaleDate": "2024-11-01T15:59:31.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5843762284240831056",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYk-56-T7jZgtGRRwu_iomEQAAJOOQACqekwSA114I8H9SaMNAQ",
+      "fileUniqueId": "AgADTjkAAqnpMEg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiT7nr5PuNmC0ZFHC7-KiYRAAAk45AAKp6TBIDXXgjwf1JowBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADTjkAAqnpMEhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6926
+        }
+      ],
+      "emoji": "💎",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 25875
+    },
+    "price": 100,
+    "limited": true,
+    "remaining": 0,
+    "total": 5000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 85,
+    "firstSaleDate": "2024-10-30T20:08:39.000Z",
+    "lastSaleDate": "2024-10-30T20:41:00.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5841689550203650524",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmiEq5474eNVLetax9Hey-_AAKONQACZFdxSAEnG1yajJjXNAQ",
+      "fileUniqueId": "AgADjjUAAmRXcUg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiaISrnjvh41Ut61rH0d7L78AAo41AAJkV3FIAScbXJqMmNcBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADjjUAAmRXcUhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4188
+        }
+      ],
+      "emoji": "🫦",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 21301
+    },
+    "price": 50,
+    "limited": true,
+    "remaining": 0,
+    "total": 10000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 43,
+    "firstSaleDate": "2024-10-30T20:08:17.000Z",
+    "lastSaleDate": "2024-10-30T23:49:29.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5841632504448025405",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnkjhOZJUVGTe4lo5_bzkUWAAKFNgAC9bnwS5956AJItFBeNAQ",
+      "fileUniqueId": "AgADhTYAAvW58Es",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJieSOE5klRUZN7iWjn9vORRYAAoU2AAL1ufBLn3noAki0UF4BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADhTYAAvW58Ety",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6360
+        }
+      ],
+      "emoji": "😏",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 18644
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-30T20:08:15.000Z",
+    "lastSaleDate": "2024-10-31T22:04:01.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5841391256135008713",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnHt0C1h_qU_lHz7xQ7lAAB_wAC0jwAAvw8-EmEklDT9DUxMjQE",
+      "fileUniqueId": "AgAD0jwAAvw8-Ek",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJice3QLWH-pT-UfPvFDuUAAH_AALSPAAC_Dz4SYSSUNP0NTEyAQADBQADbQADNAQ",
+          "fileUniqueId": "AQAD0jwAAvw8-Ely",
+          "width": 128,
+          "height": 128,
+          "fileSize": 8688
+        }
+      ],
+      "emoji": "🔤",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 14763
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-29T20:45:16.000Z",
+    "lastSaleDate": "2024-10-30T07:07:41.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5839038009193792264",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnsxZY5TqgdnT9IoUyIAaJRAAISNgAC3IO5SC0lBfjChz7YNAQ",
+      "fileUniqueId": "AgADEjYAAtyDuUg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiezFljlOqB2dP0ihTIgBolEAAhI2AALcg7lILSUF-MKHPtgBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADEjYAAtyDuUhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6394
+        }
+      ],
+      "emoji": "🌺",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 28325
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-29T20:45:37.000Z",
+    "lastSaleDate": "2024-10-30T17:29:55.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5841336413697606412",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlMyYwyMEqx0TtCmOmX-_UzAAKjMgACgzspSW0yGw-WzY6aNAQ",
+      "fileUniqueId": "AgADozIAAoM7KUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiUzJjDIwSrHRO0KY6Zf79TMAAqMyAAKDOylJbTIbD5bNjpoBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADozIAAoM7KUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 8064
+        }
+      ],
+      "emoji": "🔮",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 31490
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-29T20:45:42.000Z",
+    "lastSaleDate": "2024-10-29T22:28:15.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5837063436634161765",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYktpaa-of6wnaC84Vy2XZNPAAJ-PgACxvdASdGYIMI9yMx5NAQ",
+      "fileUniqueId": "AgADfj4AAsb3QEk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiS2lpr6h_rCdoLzhXLZdk08AAn4-AALG90BJ0Zggwj3IzHkBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADfj4AAsb3QEly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4904
+        }
+      ],
+      "emoji": "🧹",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 22519
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-28T23:27:51.000Z",
+    "lastSaleDate": "2024-10-29T10:12:50.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5836780359634649414",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkg9Smns2rwbqt82JWCfaJzAALuOAACZBDZSFSU5_nBltZKNAQ",
+      "fileUniqueId": "AgAD7jgAAmQQ2Ug",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiSD1KaezavBuq3zYlYJ9onMAAu44AAJkENlIVJTn-cGW1koBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD7jgAAmQQ2Uhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6022
+        }
+      ],
+      "emoji": "📍",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 38148
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 30000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-28T23:27:38.000Z",
+    "lastSaleDate": "2024-10-29T07:10:12.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5837059369300132790",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnowOWguywaeP3_TbLacUdxAAIrOAAC-zXxSC-UZ4bkC41rNAQ",
+      "fileUniqueId": "AgADKzgAAvs18Ug",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiejA5aC7LBp4_f9NstpxR3EAAis4AAL7NfFIL5RnhuQLjWsBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADKzgAAvs18Uhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4762
+        }
+      ],
+      "emoji": "🐈‍⬛",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 21216
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 20000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-28T23:27:38.000Z",
+    "lastSaleDate": "2024-10-29T01:50:00.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5821384757304362229",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYknaCgfCCoMEivnb2NMPM2EAALaOQACiGqBSegtruMvVRswNAQ",
+      "fileUniqueId": "AgAD2jkAAohqgUk",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiSdoKB8IKgwSK-dvY0w8zYQAAto5AAKIaoFJ6C2u4y9VGzABAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD2jkAAohqgUly",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4764
+        }
+      ],
+      "emoji": "🎩",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 23864
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-23T20:12:14.000Z",
+    "lastSaleDate": "2024-10-24T12:34:30.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5821205665758053411",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlNJp2aJV_c0xsMCi-ftPo_AAJjPAACivToSN578juNMaUhNAQ",
+      "fileUniqueId": "AgADYzwAAor06Eg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiU0mnZolX9zTGwwKL5-0-j8AAmM8AAKK9OhI3nvyO40xpSEBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADYzwAAor06Ehy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5944
+        }
+      ],
+      "emoji": "🕯",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 24509
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 50000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-10-23T20:12:14.000Z",
+    "lastSaleDate": "2024-10-23T21:14:24.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5821261908354794038",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmgi_sfRtZVKNVSSehp9_tDAAKbNwACZPfxS6j5no12R2_gNAQ",
+      "fileUniqueId": "AgADmzcAAmT38Us",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiaCL-x9G1lUo1VJJ6Gn3-0MAAps3AAJk9_FLqPmejXZHb-ABAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADmzcAAmT38Uty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3972
+        }
+      ],
+      "emoji": "🍄",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 25004
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-10-23T20:12:30.000Z",
+    "lastSaleDate": "2024-10-24T05:44:45.000Z",
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170145012310081615",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmdWF871oIM8KPEkL9XMSXPAAJ8GwACkoTYS_itxFzPIpm1NAQ",
+      "fileUniqueId": "AgADfBsAApKE2Es",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiZ1YXzvWggzwo8SQv1cxJc8AAnwbAAKShNhL-K3EXM8imbUBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADfBsAApKE2Ety",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6244
+        }
+      ],
+      "emoji": "💝",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 25528
+    },
+    "price": 15,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 13
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170233102089322756",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmv2ZGRXy-klVcfHvpI228nAAKtVAACmj_pSnvPkDQv_sivNAQ",
+      "fileUniqueId": "AgADrVQAApo_6Uo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJia_ZkZFfL6SVVx8e-kjbbycAAq1UAAKaP-lKe8-QNC_-yK8BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADrVQAApo_6Upy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5282
+        }
+      ],
+      "emoji": "🧸",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 51240
+    },
+    "price": 15,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 13
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170594532177215681",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlcCrX9D2WjWFbQR4B5_tPFAAJeGwACFsJIS-gZUO6nWSNFNAQ",
+      "fileUniqueId": "AgADXhsAAhbCSEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiVwKtf0PZaNYVtBHgHn-08UAAl4bAAIWwkhL6BlQ7qdZI0UBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADXhsAAhbCSEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3986
+        }
+      ],
+      "emoji": "🍭",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 58063
+    },
+    "price": 15,
+    "limited": true,
+    "remaining": 0,
+    "total": 500000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 13,
+    "firstSaleDate": "2024-09-28T11:27:00.000Z",
+    "lastSaleDate": "2024-10-05T21:45:30.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170250947678437525",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnELTYPeZz6t_eSQjdfS0W9AAKNSAACsU84SMuB4ge7V_wGNAQ",
+      "fileUniqueId": "AgADjUgAArFPOEg",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJicQtNg95nPq395JCN19LRb0AAo1IAAKxTzhIy4HiB7tX_AYBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADjUgAArFPOEhy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5010
+        }
+      ],
+      "emoji": "🎁",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 10199
+    },
+    "price": 25,
+    "limited": false,
+    "birthday": true,
+    "conversionPrice": 21
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5167939598143193218",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlTd2bRhXZZiUYYd_vS6jToAAIqHAACJQWAS4QwzLakwdN4NAQ",
+      "fileUniqueId": "AgADKhwAAiUFgEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiVN3ZtGFdlmJRhh3-9LqNOgAAiocAAIlBYBLhDDMtqTB03gBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADKhwAAiUFgEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5456
+        }
+      ],
+      "emoji": "🌸",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 41442
+    },
+    "price": 25,
+    "limited": true,
+    "remaining": 0,
+    "total": 100000,
+    "soldOut": true,
+    "birthday": false,
+    "conversionPrice": 21,
+    "firstSaleDate": "2024-09-28T08:21:54.000Z",
+    "lastSaleDate": "2024-10-05T19:47:54.000Z"
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5168103777563050263",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYn_tyD9mcVsSUco4sPnnkclAAJxGQAC1P-BS9CYmaAv74KENAQ",
+      "fileUniqueId": "AgADcRkAAtT_gUs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJif-3IP2ZxWxJRyjiw-eeRyUAAnEZAALU_4FL0JiZoC_vgoQBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADcRkAAtT_gUty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4052
+        }
+      ],
+      "emoji": "🌹",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 48324
+    },
+    "price": 25,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 21
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170144170496491616",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnSH_tAM5httuhn6t_tev_nAAKBGAAClZ-JSmrGT5kBZFDGNAQ",
+      "fileUniqueId": "AgADgRgAApWfiUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJidIf-0AzmG226Gfq3-16_-cAAoEYAAKVn4lKasZPmQFkUMYBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADgRgAApWfiUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5168
+        }
+      ],
+      "emoji": "🎂",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 19679
+    },
+    "price": 50,
+    "limited": false,
+    "birthday": true,
+    "conversionPrice": 43
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170314324215857265",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmkVi27BEk63KT37kdjlAn3AALeJQACRSDgSsjmE6AUz0NeNAQ",
+      "fileUniqueId": "AgAD3iUAAkUg4Eo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiaRWLbsESTrcpPfuR2OUCfcAAt4lAAJFIOBKyOYToBTPQ14BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD3iUAAkUg4Epy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6932
+        }
+      ],
+      "emoji": "💐",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 48433
+    },
+    "price": 50,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 43
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170564780938756245",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkqwJxfnhQmAAGsXCXcQ9ealAACyxsAAteJkUs76zDXxfdAzzQE",
+      "fileUniqueId": "AgADyxsAAteJkUs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiSrAnF-eFCYAAaxcJdxD15qUAALLGwAC14mRSzvrMNfF90DPAQADBQADbQADNAQ",
+          "fileUniqueId": "AQADyxsAAteJkUty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5538
+        }
+      ],
+      "emoji": "🚀",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 55268
+    },
+    "price": 50,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 43
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5168043875654172773",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmiocW4v6SGl_-Ho4LfulGsAAKZGwACzagQS38R6izkF899NAQ",
+      "fileUniqueId": "AgADmRsAAs2oEEs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiaKhxbi_pIaX_4ejgt-6UawAApkbAALNqBBLfxHqLOQXz30BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADmRsAAs2oEEty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4546
+        }
+      ],
+      "emoji": "🏆",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 60319
+    },
+    "price": 100,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 85
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170690322832818290",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYlBC_oFm8osSXsfird06FerAALoTwACJx74Ss1NNn7ovmieNAQ",
+      "fileUniqueId": "AgAD6E8AAice-Eo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiUEL-gWbyixJex-Kt3ToV6sAAuhPAAInHvhKzU02fui-aJ4BAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD6E8AAice-Epy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 4672
+        }
+      ],
+      "emoji": "💍",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 61230
+    },
+    "price": 100,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 85
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5170521118301225164",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnFlNah9ouQ6dCcBosLFAABvQACGx4AAkBI8Eulyl_jitpNTDQE",
+      "fileUniqueId": "AgADGx4AAkBI8Es",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJicWU1qH2i5Dp0JwGiwsUAAG9AAIbHgACQEjwS6XKX-OK2k1MAQADBQADbQADNAQ",
+          "fileUniqueId": "AQADGx4AAkBI8Ety",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3784
+        }
+      ],
+      "emoji": "💎",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 47932
+    },
+    "price": 100,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 85
+  },
+  {
+    "type": "nonupgraded",
+    "id": "6028601630662853006",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnbu1C0CYIwQrKAtBUpOygHAALXGAACy0WJSqKYQ7cuIwaJNAQ",
+      "fileUniqueId": "AgAD1xgAAstFiUo",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJidu7ULQJgjBCsoC0FSk7KAcAAtcYAALLRYlKophDty4jBokBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQAD1xgAAstFiUpy",
+          "width": 128,
+          "height": 128,
+          "fileSize": 3542
+        }
+      ],
+      "emoji": "🍾",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 42245
+    },
+    "price": 50,
+    "limited": false,
+    "birthday": false,
+    "conversionPrice": 43
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5783075783622787539",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYkPsku740592bsO09iSealtAAIlPAAChpepS0gglbXt2KajNAQ",
+      "fileUniqueId": "AgADJTwAAoaXqUs",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiQ-yS7vjTn3Zuw7T2JJ5qW0AAiU8AAKGl6lLSCCVte3YpqMBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADJTwAAoaXqUty",
+          "width": 128,
+          "height": 128,
+          "fileSize": 5726
+        }
+      ],
+      "emoji": "🎂",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 16899
+    },
+    "price": 500,
+    "limited": true,
+    "remaining": 332149,
+    "total": 500000,
+    "soldOut": false,
+    "birthday": true,
+    "conversionPrice": 425,
+    "upgradePrice": 25
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5782988952268964995",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYnDcAi_5qlgeMNHasrM2tKmAAJcPQACPovwSzcro45SHj-qNAQ",
+      "fileUniqueId": "AgADXD0AAj6L8Es",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJicNwCL_mqWB4w0dqysza0qYAAlw9AAI-i_BLNyujjlIeP6oBAAMFAANtAAM0BA",
+          "fileUniqueId": "AQADXD0AAj6L8Ety",
+          "width": 128,
+          "height": 128,
+          "fileSize": 6586
+        }
+      ],
+      "emoji": "🗓",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 19762
+    },
+    "price": 150,
+    "limited": true,
+    "remaining": 392547,
+    "total": 500000,
+    "soldOut": false,
+    "birthday": true,
+    "conversionPrice": 128
+  },
+  {
+    "type": "nonupgraded",
+    "id": "5782984811920491178",
+    "sticker": {
+      "fileId": "CAACAgIAAxUAAWeZCYmK8WMs-zSd6RwW1jT0x_AOAAKpMQACvGUAAUu1qWZHStZtjzQE",
+      "fileUniqueId": "AgADqTEAArxlAAFL",
+      "type": "customEmoji",
+      "width": 512,
+      "height": 512,
+      "isAnimated": true,
+      "isVideo": false,
+      "thumbnails": [
+        {
+          "fileId": "AAMCAgADFQABZ5kJiYrxYyz7NJ3pHBbWNPTH8A4AAqkxAAK8ZQABS7WpZkdK1m2PAQADBQADbQADNAQ",
+          "fileUniqueId": "AQADqTEAArxlAAFLcg",
+          "width": 128,
+          "height": 128,
+          "fileSize": 7916
+        }
+      ],
+      "emoji": "🕯",
+      "customEmojiId": "",
+      "needsRepainting": false,
+      "fileSize": 25081
+    },
+    "price": 350,
+    "limited": true,
+    "remaining": 463535,
+    "total": 500000,
+    "soldOut": false,
+    "birthday": true,
+    "conversionPrice": 298
+  }
+]
