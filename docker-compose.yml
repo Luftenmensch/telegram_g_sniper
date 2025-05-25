@@ -1,0 +1,79 @@
+version: "3.8"
+
+services:
+  telegram-gift-sniper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telegram-gift-sniper
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - TZ=UTC
+    volumes:
+      # Persist session files
+      - ./sessions:/app/sessions
+      # Persist logs
+      - ./gifts_logs:/app/gifts_logs
+      # Mount config (optional - can use environment variables instead)
+      - ./config.ts:/app/config.ts:ro
+    networks:
+      - telegram-network
+    healthcheck:
+      test: ["CMD", "node", "-e", "console.log('Health check')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: 512M
+        reservations:
+          cpus: "0.25"
+          memory: 128M
+    # Logging configuration
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # Optional: Add monitoring service
+  # prometheus:
+  #   image: prom/prometheus:latest
+  #   container_name: prometheus
+  #   ports:
+  #     - "9090:9090"
+  #   volumes:
+  #     - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+  #   networks:
+  #     - telegram-network
+
+  # Optional: Add database for persistence
+  # postgres:
+  #   image: postgres:15-alpine
+  #   container_name: postgres-gifts
+  #   environment:
+  #     POSTGRES_DB: telegram_gifts
+  #     POSTGRES_USER: telegram_user
+  #     POSTGRES_PASSWORD: ${DB_PASSWORD:-secure_password}
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   networks:
+  #     - telegram-network
+  #   healthcheck:
+  #     test: ["CMD-SHELL", "pg_isready -U telegram_user -d telegram_gifts"]
+  #     interval: 10s
+  #     timeout: 5s
+  #     retries: 5
+
+networks:
+  telegram-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local
